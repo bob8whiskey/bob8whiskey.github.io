@@ -8,8 +8,8 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm Bob. I drink whiskey and write about it every day.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[bob@whiskeybob.com](mailto:bob@whiskeybob.com)
