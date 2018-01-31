@@ -7,9 +7,16 @@ layout: default
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+  
       <div class="date">
-        {{ post.date | date: "%B %e, %Y" }}
+        {{ page.date | date: "%B %e, %Y" }}
+        <br/>
+        {% if page.tags.size > 0 %}
+          Tag{% if page.tags.size > 1 %}s{% endif %}:
+          {{ page.tags | sort | join: ", " }}
+        {% endif %}
       </div>
+      
       <div class="entry">
         {{ post.excerpt }}
       </div>
