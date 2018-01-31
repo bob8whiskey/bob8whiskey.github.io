@@ -8,6 +8,7 @@ layout: default
   
   <div class="date">
     {{ page.date | date: "%B %e, %Y" }}
+    <br/>
   {% if page.tags.size > 0 %}
     Tag{% if page.tags.size > 1 %}s{% endif %}:
     {{ page.tags | sort | join: ", " }}
