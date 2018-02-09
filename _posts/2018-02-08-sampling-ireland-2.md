@@ -18,7 +18,7 @@ Lagavulin Distiller's - The smoke is more apparent than it was when at room temp
 
 I let these drams sit for 10-15 minutes to come back to room temperature and oxidate a bit.
 
-Lagavulin Distiller's - Yum! This is better than the first time I had it the other night. I'm getting more complexity now like the Laga16 but with a nice sweetness. The finish seems longer than the standard Laga16 and the sherry sweetness is very pleasant. Damn, this is a nice dram... wait, I'm supposed to be sampling Irish whiskies? 
+Lagavulin Distiller's - Yum! This is a lot better than the first time I had it the other night. I'm getting more complexity now like the Laga16 but with a nice sweetness. The finish seems longer than the standard Laga16 and the sherry sweetness is very pleasant. Damn, this is a nice dram... wait, this isn't Islay week?
 
 Redbreast 12 - Also yum! The mouth feel is back to normal and I'm getting that complex Irish flavor that I loved the first time. I don't notice much of a difference from the first time I tried it and still really dig it. Sipping on this after the Lagavulin was interesting... the sweet notes of the Laga left over on my tongue seemed to be triggered by this to create extra sweetness and tongue tingling.
 
@@ -26,6 +26,6 @@ Redbreast 12 - Also yum! The mouth feel is back to normal and I'm getting that c
 
 Ladies and gentlemen, I'm pleased to reintroduce Mrs. Whiskey! She tried the Redbreast cold - "woah, that burns!" and at room temp - "I wouldn't drink a lot of it but it's not offensive." That's the highest complement she's ever paid to a whiskey.
 
-Lagavulin Distiller's - she unfortunately brushed teeth before this came out.
+Lagavulin Distiller's - she unfortunately brushed her teeth before this came out so she didn't try it. She did give it the nose test. "It doesn't burn my nose like other ones do. I don't get any smokiness. If I were to sniff it blindfolded I don't know if I were to tell it was whisky. I liked the way it smelled but it didn't smell familiar."
 
 Next up - back to the Irish minis. Whiskey Bob signing off.
