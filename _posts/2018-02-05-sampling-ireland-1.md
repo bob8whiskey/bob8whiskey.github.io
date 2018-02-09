@@ -3,59 +3,59 @@ layout: post
 title: Sampling Ireland - Part 1
 date: 2018-02-04
 category: daily
-tags: [Ireland, Bushmills, TullamoreDEW, Jameson, Redbreast, Readbreast_12]
+tags: [Ireland, Bushmills, TullamoreDEW, Jameson, Readbreast_12]
 ---
 
 Travel affords one ample opportunity to pick up 50 mL sample bottles. I picked up numerous samples representing all varieties of whiskies. I figured this was a good way to get a good idea of different styles. Today kicks off the sampling series by putting the 'e' in whiskey with a trip to Ireland.
 
-### Bushmills Original Blend $3.99/50mL
+### Bushmills Original Blend - paid $4/50mL - sampled 1/3 bottle
 
 Nose is light and fruity with some alcohol burn. This is the quintessential Irish whiskey smell for me. Mouth feel is light but becomes thicker with chewing. Alcohol burn. Drying finish. Very light fruity notes on the finish. There's not a lot of complexity here. There's a nice sweetness and tingling sensation on the finish.
 
 Dave Broom writes in The World Atlas of Whisky:
 
-Nose: Light gold. Very fresh with a delicate herbal twinge. Hot clay and scented grasses.
-Palate: Sweet with a little dustiness. Sweet centered with a little orange blossom, honey becoming grassy to the back.
-Finish: Crisp and gingery.
-Conclusion: Made for mixing - and that's a compliment
+> Nose: Light gold. Very fresh with a delicate herbal twinge. Hot clay and scented grasses.
+> Palate: Sweet with a little dustiness. Sweet centered with a little orange blossom, honey becoming grassy to the back.
+> Finish: Crisp and gingery.
+> Conclusion: Made for mixing - and that's a compliment
 
 The gingery finish note is spot on. "Gingery" is now in my vocabulary.
 
-### Tullamore D.E.W
+### Tullamore D.E.W., 40% ABV, paid $3/50mL - sampled 1/3 bottle
 
 This has the same "Irish" notes as the Bushmills on the nose but is heavier and earthier. Though it's the same 40% ABV, I get much more alcohol burn on the nose. Thicker in the mouth with a general sense of sweetness. I get mostly earthy, grassy notes on the finish with some citrus undertones. This is like a heavier version of the Bushmills. The earthy tones in the finish aren't terribly pleasant.
 
 Broom:
 
-Nose: Very fresh and grassy, with jags of lemon and some firm cereal tones. With water, some green oliv, grape and toasted oak.
-Palate: Clean. Light to medium-bodied. Fairly firm, with red apple and milk chocolate.
-Finish: Lightly acidic.
-Conclusion: Fresh and made for drinking long.
+> Nose: Very fresh and grassy, with jags of lemon and some firm cereal tones. With water, some green oliv, grape and toasted oak.
+> Palate: Clean. Light to medium-bodied. Fairly firm, with red apple and milk chocolate.
+> Finish: Lightly acidic.
+> Conclusion: Fresh and made for drinking long.
 
 I much prefer the Bushmills.
 
-### Jameson Original Blend, 40% ABV
+### Jameson Original Blend, 40% ABV, paid $3/50mL - sampled 1/3 bottle
 
 Lightest on the tongue. Some fruit and more spiciness on the finish. A decent alcohol burn. More burn and not as complex as the Redbreast. The spiciness and burn are the key takeaways for me.
 
 Broom:
 
-Nose: Full gold. Highly scented. Herbs, hot earth, amber, scented wood, and caramelized apple sugars. Mead-like. Fresh and zesty.
-Palate: Soft with lots of vanilla. Succulent mid-palate then starts to dry, becoming slightly finer. The spices begin to creep in.
-Finish: Cumin. Balsawood. Clean.
-Conclusion: Balanced and aromatic.
+> Nose: Full gold. Highly scented. Herbs, hot earth, amber, scented wood, and caramelized apple sugars. Mead-like. Fresh and zesty.
+> Palate: Soft with lots of vanilla. Succulent mid-palate then starts to dry, becoming slightly finer. The spices begin to creep in.
+> Finish: Cumin. Balsawood. Clean.
+> Conclusion: Balanced and aromatic.
 
 
-### Redbreast Aged 12 Years, 40% ABV
+### Redbreast Aged 12 Years, 40% ABV, paid $47/750mL - sampled 10-15 mL
 
 This is the oldest and most expensive of all th whiskies tried here. It definitely has the most going on. The nose starts with the similar fruity Irish character. Different levels of sweetness dance as I swirl the liquid in my mouth. Many sensations come up here. The finish is light and fruity. This is pretty nice stuff.
 
 Broom:
 
-Nose: Rich, soft fruits. Supple and light, with wet chamois, cake mix, ginger, and tobacco. Nuttiness behind and a hint of custard powder before moving into currant leaf.
-Palate: Clean. Cigar and black fruits, but fresh, light pot gives drive. Tongue-coating, with great presence.
-Finish: Dry spices.
-Conclusion: The benchmark single pot still.
+> Nose: Rich, soft fruits. Supple and light, with wet chamois, cake mix, ginger, and tobacco. Nuttiness behind and a hint of custard powder before moving into currant leaf.
+> Palate: Clean. Cigar and black fruits, but fresh, light pot gives drive. Tongue-coating, with great presence.
+> Finish: Dry spices.
+> Conclusion: The benchmark single pot still.
 
 That's a whole lot of something in that nose description. I'm not sure if I get all that but I get a bunch of stuff. "Great presence" is a good description of the palate.
 
