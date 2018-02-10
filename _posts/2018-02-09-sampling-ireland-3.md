@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sampling Ireland - Part 2
+title: Sampling Ireland - Part 3
 date: 2018-02-09
 category: daily
 tags: [Ireland, Bushmills, Jameson]
