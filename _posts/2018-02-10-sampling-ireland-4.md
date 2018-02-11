@@ -27,7 +27,8 @@ To summarize their notes:
 #### Redbreast 12
 
 * They call this the quintessential Irish whiskey
-* Nose: Buttery round note that comes from the single pot still.
+* Nose: Butter with honey like a biscuit (I feel you, Rex). Daniel calls this out as the classical note you'll experience with every Irish whiskey distilled with the single pot still process. The process uses a mix of malted and unmalted barley. There's a bit more going on here to
+* This was aged in [Oloroso sherry casks](https://en.wikipedia.org/wiki/Oloroso)
 
 
 
