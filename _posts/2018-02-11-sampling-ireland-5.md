@@ -28,7 +28,7 @@ Here's a map of the Irish expressions I sampled (Hopefully I can revise this soo
 
 <iframe src="https://www.google.com/maps/d/u/2/embed?mid=1bDD0xVYA7KYxDUcrU4PSiY6EUk4fVftg" width="640" height="480"></iframe>
 
-Overall, I enjoyed my trip to Ireland and am ready to try something new. Next time I'm back around these parts, I hope to try out a few other expressions:
+Overall, I enjoyed my trip to Ireland but am ready to sample from another region. Next time I'm back around these parts, I hope to try out a few other expressions:
 
 * Green Spot - can't wait to experience that magical "coconut" note
 * Connemara - a peated Irish whiskey? I'm in!
