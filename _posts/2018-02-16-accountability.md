@@ -2,7 +2,7 @@
 layout: post
 title: Accountability
 date: 2018-02-16
-category: daily
+category: blog
 tags: [NoWhiskey]
 ---
 

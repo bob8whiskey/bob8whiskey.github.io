@@ -2,7 +2,7 @@
 layout: post
 title: Too Tired for Whiskey
 date: 2018-02-07
-category: daily
+category: blog
 tags: [NoWhiskey]
 ---
 
