@@ -24,6 +24,8 @@ This also highlighted the need for a better plan - know what I want to try and k
 
 I found a great way to try out different expressions is through samplers. The problem is that samplers can be hard to find but I lucked into a few stores with a broad selection. At least at this stage, whisky to me is for drinking and not collecting but I now have a huge inventory of samples because I'm not sure when I'll be able to pick all the different types up again. This gives me some flexibility in interesting side by side comparisons to try later. So far, I haven't found a sampler to say no to yet. I figure there's a fun bottom barrel sampler week in my future.
 
+Samplers also give me some flexibility to explore the range of a distillery (I know this slightly contradicts my lesson from the last section). I love when distilleries offer older expressions in sampler form and I look forward to some vertical tastings when I can swing it.
+
 ### First Love
 
 I've gone on and on about Lagavulin 16. Islay has much else to offer and I want to try out the standard expressions from all 8 Islay distilleries this year. It will serve as a nice point of comparison and also a standard flavor profile I can revisit to compare all others to. Plus, big and peaty is my favorite profile so why not drink a lot of it!
