@@ -30,4 +30,4 @@ Samplers also give me some flexibility to explore the range of a distillery (I k
 
 I've gone on and on about Lagavulin 16. Islay has much else to offer and I want to try out the standard expressions from all 8 Islay distilleries this year. It will serve as a nice point of comparison and also a standard flavor profile I can revisit to compare all others to. Plus, big and peaty is my favorite profile so why not drink a lot of it!
 
-More reflections tomorrow. Whisky Bob signing off.
+More reflections tomorrow. NoWhisky Bob signing off.

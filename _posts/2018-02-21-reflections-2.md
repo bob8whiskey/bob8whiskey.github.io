@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reflections - Part 2
+title: Reflections Part 2 - Rapid Fire
 date: 2018-02-21
 category: blog
 tags: [NoWhiskey]
@@ -36,4 +36,4 @@ A trip to the grocery store spice section is in my near future to develop a bett
 
 I'm a couple days removed from my last drink and I miss it. That probably means it's good to have a break.
 
-Whisky Bob signing off.
+NoWhisky Bob signing off.

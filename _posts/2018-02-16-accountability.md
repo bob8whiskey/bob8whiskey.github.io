@@ -3,7 +3,7 @@ layout: post
 title: Accountability
 date: 2018-02-16
 category: blog
-tags: [NoWhiskey]
+tags: [No Whiskey]
 ---
 
 It's easy to get overly excited when jumping into a new hobby, especially one as delicious as whiskey. It can also be fiscally and physically dangerous when jumping into a new hobby, especially one as delicious as whiskey. Alcoholism is far too real and can capture anyone. I really want to keep this a fun and sustainable hobby. But just a hobby.
@@ -18,4 +18,4 @@ I've spent about $500 year to date and have $200 ready to plop down at a New Ham
 
 These figures might seem extravagant to many or laughable to a few but it works for us. Hopefully the transparency is helpful, dear reader.
 
-Whiskey Bob signing off.
+NoWhiskey Bob signing off.
