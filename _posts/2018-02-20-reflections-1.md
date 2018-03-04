@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reflections - Part 1
+title: Reflections Part 1
 date: 2018-02-20
 category: blog
 tags: [NoWhiskey]
