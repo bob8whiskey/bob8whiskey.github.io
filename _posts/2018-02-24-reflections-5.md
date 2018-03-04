@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reflections - Part 5
+title: Reflections Part 5
 date: 2018-02-24
 category: blog
 tags: [NoWhiskey]
