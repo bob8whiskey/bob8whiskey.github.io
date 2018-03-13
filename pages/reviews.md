@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Reviews
-permalink: /reviews-old/
+permalink: /reviews/
 ---
 <div id="archives">
 {% for category in site.categories %}
