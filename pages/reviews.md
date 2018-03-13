@@ -23,7 +23,6 @@ category: reviews
                 </ul>
             </header>
 
-            {% for post in site.categories[page.category] %}
             {% for tag in sortedTags %}
                 <h3 id="{{tag | cgi_escape}}">{{tag}}</h3>
                 <ul class="taglist">
@@ -36,7 +35,6 @@ category: reviews
                     {% endfor %}
                 <li class="return"><a href="#top" title="return to top">return to top</a></li>
                 </ul>
-            {% endfor %}
             {% endfor %}
 
         </article>
