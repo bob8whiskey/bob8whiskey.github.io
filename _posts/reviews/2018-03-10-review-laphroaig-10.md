@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review - Laphroaig 10: B+
+title: Review - Laphroaig 10 B+
 date: 2018-03-10
 category: reviews
 tags: [Review, Scotch, Islay, Laphroaig 10]
