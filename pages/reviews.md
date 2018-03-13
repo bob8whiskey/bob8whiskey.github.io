@@ -3,10 +3,27 @@ layout: page
 title: Reviews
 permalink: /reviews/
 ---
+<div id="archives">
+{% for category in site.categories %}
+  <div class="archive-group">
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+    <div id="#{{ category_name | slugize }}"></div>
+    <p></p>
+
+    <h3 class="category-head">{{ category_name }}</h3>
+    <a name="{{ category_name | slugize }}"></a>
+    {% for post in site.categories[category_name] %}
+    <article class="archive-item">
+      <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
+    </article>
+    {% endfor %}
+  </div>
+{% endfor %}
+</div>
 
 <main role="main" class="cf">
 
-    <p>Here you'll find an archive of my daily blog entries sortable by tags.</p>
+    <p>Reviews be here</p>
 
     <article class="archive">
         <article role="article">
