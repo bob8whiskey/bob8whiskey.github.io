@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review - Lagavulin 16
+title: Review - Lagavulin 16 | A-
 date: 2018-03-09
 category: reviews
 tags: [Review, Scotch, Islay, Lagavulin 16]
