@@ -4,4 +4,38 @@ title: Reviews
 permalink: /reviews/
 ---
 
-Indexed reviews with grades will be coming soon. First up is the Islay Kildalton trio of Ardbeg 10, Lagavulin 16 and Laphroaigh 10.
+<main role="main" class="cf">
+
+    <p>Here you'll find an archive of my daily blog entries sortable by tags.</p>
+
+    <article class="archive">
+        <article role="article">
+
+            <header>
+                <ul class="tag-cloud">
+                    {% capture site_tags %}{% for tag in site.tags %}{{tag | first}}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+                    {% assign sortedTags=site_tags | split:',' | sort %}
+
+                    {% for tag in sortedTags %}
+                        <li><a href="#{{tag | cgi_escape}}">{{tag}} [{{site.tags[tag].size}}]</a></li>
+                    {% endfor %}
+                </ul>
+            </header>
+
+            {% for tag in sortedTags %}
+                <h3 id="{{tag | cgi_escape}}">{{tag}}</h3>
+                <ul class="taglist">
+                    {% for post in site.tags[tag] %}
+                        <li>
+                            <time itemprop="dateCreated" datetime="{{post.date}}">
+                                {{ post.date | date: "%b %d, %Y" }}</time> | <a href="{{site.baseurl}}{{post.url}}" rel="bookmark" title="Permanent Link to {{site.baseurl}}{{post.url}}">
+                                {{post.title}}</a>
+                        </li>
+                    {% endfor %}
+                <li class="return"><a href="#top" title="return to top">return to top</a></li>
+                </ul>
+            {% endfor %}
+
+        </article>
+    </article>
+</main>
