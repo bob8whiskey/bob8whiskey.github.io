@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A'bunadh Interlude
+title: A'bunadh & Ardbeg Interlude
 date: 2018-03-15
 category: blog
 tags: [Scotch, Speyside, Aberlour A'bunadh 60, Islay, Ardbeg 10, frankenwhiskey]
