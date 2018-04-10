@@ -31,17 +31,18 @@ Seven standards, seven days. That has a nice ring to it. Let's start with someth
 
 The run down:
 * [Official website](https://www.malts.com/en-us/our-whisky-collection/caol-ila/caol-ila-12-years-old/)
-* Diageo owned
+* Corporate overlord: Diageo
 * 43% ABV
+* Likely chill filtered and E150 coloring added
 * Paid $22.56 for a 200 mL bottle as part of a ~$300 online order shipped from [Fine Drams](http://www.finedrams.com)
 * $2.82/25mL pour
 
 Tasting notes:
-* *Nose*: Peat smoke, sea, citrus. Like a tamer Lagavulin
-* *Palate*: Light-medium bodied, a bit of sea, smoke and citrus
-* *Finish*: Light peat smoke up front, light citrus and then a nice long smoky finish
+* **Nose**: Peat smoke, sea, citrus. Like a tamer Lagavulin
+* **Palate**: Light-medium bodied, a bit of sea, smoke and citrus
+* **Finish**: Light peat smoke up front, light citrus and then a nice long smoky finish
 
-This is like a slightly subdued, citrusy Lagavulin. I'd call Lagavulin a delicate dram and this is even more delicate. The smoke is subdued but definitely present. This is really sippable. I like it a lot. I get a slightly unpleasant artificial citrus like flavor after a few sips. I'm curious how this note evolves with oxidation.
+This is like a slightly subdued, citrusy Lagavulin. I call Lagavulin a delicate dram and this is even more delicate. The smoke is subdued but more than I expected based on reputation. This is really sippable. I like it a lot. I get a slightly unpleasant artificial citrus like flavor after a few sips. I'm curious how this note evolves with oxidation.
 
 Mrs Whisky:
 
