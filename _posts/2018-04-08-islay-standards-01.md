@@ -7,7 +7,7 @@ tags: [Scotch, Islay, Caol Ila 12]
 excerpt_separator: <!--more-->
 ---
 
-Seven Islay distilleries, each with a standard expression, each in my possession:
+Eight Islay distilleries, each with a standard expression, each in my possession:
 
 South Islay (Kildalton/Port Ellen):
 * Ardbeg 10
@@ -19,23 +19,24 @@ Northeastern Islay (Port Askaig):
 * Caol Ila 12
 
 Northwestern Islay (Port Charlotte):
-* Bowmore 10
+* Bowmore 12
 * Bruichladdich Classic Laddie
 * Kilchoman Machir Bay
 
-Seven standards, seven days. That has a nice ring to it. Let's start with something new today.
+Eight standards, eight days. It's a baker's week of Islays to drink. Let's start with something new today.
 
 <!--more-->
 
 ### Caol Ila 12 years old
 
 The run down:
-* [Official website](https://www.malts.com/en-us/our-whisky-collection/caol-ila/caol-ila-12-years-old/)
-* Corporate overlord: Diageo
+* Northeast Islay - Port Askaig
 * 43% ABV
 * Likely chill filtered and E150 coloring added
 * Paid $22.56 for a 200 mL bottle as part of a ~$300 online order shipped from [Fine Drams](http://www.finedrams.com)
 * $2.82/25mL pour
+* Corporate overlord: Diageo
+* [Official website](https://www.malts.com/en-us/our-whisky-collection/caol-ila/caol-ila-12-years-old/)
 
 Tasting notes:
 * **Nose**: Peat smoke, sea, citrus. Like a tamer Lagavulin

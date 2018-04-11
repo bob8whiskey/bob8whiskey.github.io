@@ -7,7 +7,7 @@ tags: [Scotch, Islay, Bunnahabhain 12]
 excerpt_separator: <!--more-->
 ---
 
-Welcome to day 2 of Islay Standards week. I'm taking on the second You know you're obsessed with Islay when you've memorized the spelling of Bunnahabhain. Scottish actor Brian Cox, can you help us out with the pronunciation of Bunnahabhain?
+Welcome to day 2 of Islay Standards week (+1). I'm taking on the second You know you're obsessed with Islay when you've memorized the spelling of Bunnahabhain. Scottish actor Brian Cox, can you help us out with the pronunciation of Bunnahabhain?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JanRqMtGtOI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -20,6 +20,7 @@ Thanks, Scottish actor Brian Cox!
 The run down:
 * Northeast Islay - Port Askaig
 * 46.3% ABV
+* Non-chill filtered, natural coloring
 * Paid $49.99 for a 750 mL bottle at a New Hampshire liquor outlet
 * $1.67/25mL pour
 * Corporate overlord: Distell
