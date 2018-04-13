@@ -7,7 +7,7 @@ tags: [Scotch, Islay, Bruichladdich Classic Laddie]
 excerpt_separator: <!--more-->
 ---
 
-Islay Standards Day 3 and we move to the Port Charlotte area in the northwest of the island. First up is the Bruichladdich distillery with their standard Classic Laddie Scottish Barley expression. Bruichladdich offers a wide range of flavors and the Classic Laddie is unpeated.
+Islay Standards Day 3 and we move to the Loch Indaal area in the northwest of the island. First up is the Bruichladdich distillery with their standard Classic Laddie Scottish Barley expression. Bruichladdich offers a wide range of flavors and the Classic Laddie is unpeated.
 
 Bruichladdich prides themselves on transparency and provide recipe codes for each bottle, even the 200 mL small bottle I have. My recipe code is 17/144 and I see that it contains a variety of casks aged between 7 and 11 years. Bourbon, PX sherry and other casks were used. They even record where the barley was grown. Pretty cool!
 
@@ -18,7 +18,7 @@ Let's give it a taste.
 ### Bruichladdich Classic Laddie Scottish Barley
 
 The run down:
-* Northwest Islay - Port Charlotte
+* Northwest Islay - Loch Indaal
 * 50% ABV ("F yeah!" - ed)
 * Un-chill filtered and colouring-free
 * Paid ~$20 for a 200 mL bottle as part of $60 [Wee Laddie Gift Pack](https://www.bruichladdich.com/bruichladdich/wee-laddie-gift-pack) at a New Hampshire liquor outlet
