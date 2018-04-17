@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Islay Standards - Part 4
+title: Islay Standards - Part 5
 date: 2018-04-12
+category: blog
 tags: [Scotch, Islay, Kilchoman Machir Bay]
 excerpt_separator: <!--more-->
 ---

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Islay Standards - Part 5
+title: Islay Standards - Part 6
 date: 2018-04-15
+category: blog
 tags: [Scotch, Islay, Ardbeg 10]
 excerpt_separator: <!--more-->
 ---
