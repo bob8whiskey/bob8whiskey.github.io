@@ -43,7 +43,7 @@ Tasting notes:
 * **Palate**: Light-medium bodied, a bit of sea, smoke and citrus
 * **Finish**: Light peat smoke up front, light citrus and then a nice long smoky finish
 
-This is like a slightly subdued, citrusy Lagavulin. I call Lagavulin a delicate dram and this is even more delicate. The smoke is subdued but more than I expected based on reputation. This is really sippable. I like it a lot. I get a slightly unpleasant artificial citrus like flavor after a few sips. I'm curious how this note evolves with oxidation.
+This is like a slightly subdued, citrusy Lagavulin. I call Lagavulin a delicate dram and this is even more delicate. The smoke is subdued but more than I expected based on reputation. This is really sippable. I like it a lot. I get a slightly unpleasant artificial citrus like flavor after a few sips. I'm curious how this note evolves with oxidation. **B/B+**
 
 Mrs Whisky:
 
