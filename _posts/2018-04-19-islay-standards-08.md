@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Islay Standards - Part 8
-date: 2018-04-20
+date: 2018-04-19
 category: blog
 tags: [Scotch, Islay, Lagavulin 16]
 excerpt_separator: <!--more-->

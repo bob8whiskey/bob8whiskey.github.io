@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Islay Standards - Part 9
-date: 2018-04-21
+date: 2018-04-20
 category: blog
 tags: [Scotch, Islay]
 excerpt_separator: <!--more-->
